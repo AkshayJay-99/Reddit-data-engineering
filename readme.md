@@ -1,5 +1,5 @@
 # 🚀 Reddit Data Pipeline: AWS + Airflow + Glue + Redshift
-(https://github.com/user-attachments/assets/65111596-a1ac-4d5c-a0e0-969e1a3b6c6d))
+[![name](https://github.com/user-attachments/assets/65111596-a1ac-4d5c-a0e0-969e1a3b6c6d)]
 
 ## Overview 📊
 
